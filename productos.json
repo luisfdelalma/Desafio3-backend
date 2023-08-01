@@ -1,0 +1,20 @@
+[
+    {
+        "title": "titulo producto",
+        "price": 234,
+        "thumbnail": "imagen no disponible",
+        "id": 1
+    },
+    {
+        "title": "titulo producto2",
+        "price": 444,
+        "thumbnail": "imagen no disponible2",
+        "id": 2
+    },
+    {
+        "title": "titulo producto3",
+        "price": 888,
+        "thumbnail": "imagen no disponible3",
+        "id": 3
+    }
+]
